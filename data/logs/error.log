@@ -1,0 +1,394 @@
+2015/09/07 08:33:02 [/eccube/html/abouts/index.php] Warning(E_WARNING): Creating default object from empty value on [D:\Web\ServerHost\htdocs\eccube\data\class\pages\abouts\LC_Page_Abouts.php(70)] from ::1
+2015/09/07 08:34:24 [/eccube/html/abouts/index.php] Warning(E_WARNING): Creating default object from empty value on [D:\Web\ServerHost\htdocs\eccube\data\class\pages\abouts\LC_Page_Abouts.php(70)] from ::1
+2015/09/07 08:34:27 [/eccube/html/contact/index.php] Warning(E_WARNING): Illegal string offset 'name01' on [D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%70^70A^70AD02C6%%index.tpl.php(28)] from ::1
+2015/09/07 08:34:27 [/eccube/html/contact/index.php] Warning(E_WARNING): Illegal string offset 'name02' on [D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%70^70A^70AD02C6%%index.tpl.php(32)] from ::1
+2015/09/07 08:34:27 [/eccube/html/contact/index.php] Warning(E_WARNING): Illegal string offset 'zipcode' on [D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%70^70A^70AD02C6%%index.tpl.php(46)] from ::1
+2015/09/07 08:34:27 [/eccube/html/contact/index.php] Warning(E_WARNING): Illegal string offset 'addr01' on [D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%70^70A^70AD02C6%%index.tpl.php(62)] from ::1
+2015/09/07 08:34:27 [/eccube/html/contact/index.php] Warning(E_WARNING): Illegal string offset 'addr02' on [D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%70^70A^70AD02C6%%index.tpl.php(70)] from ::1
+2015/09/07 08:34:27 [/eccube/html/contact/index.php] Warning(E_WARNING): Illegal string offset 'tel01' on [D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%70^70A^70AD02C6%%index.tpl.php(87)] from ::1
+2015/09/07 08:34:27 [/eccube/html/contact/index.php] Warning(E_WARNING): Illegal string offset 'tel02' on [D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%70^70A^70AD02C6%%index.tpl.php(91)] from ::1
+2015/09/07 08:34:27 [/eccube/html/contact/index.php] Warning(E_WARNING): Illegal string offset 'tel03' on [D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%70^70A^70AD02C6%%index.tpl.php(95)] from ::1
+2015/09/07 08:34:27 [/eccube/html/contact/index.php] Warning(E_WARNING): Illegal string offset 'email' on [D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%70^70A^70AD02C6%%index.tpl.php(107)] from ::1
+2015/09/07 09:10:28 [/eccube/html/abouts/index.php] Warning(E_WARNING): Creating default object from empty value on [D:\Web\ServerHost\htdocs\eccube\data\class\pages\abouts\LC_Page_Abouts.php(70)] from ::1
+2015/09/07 09:10:31 [/eccube/html/abouts/index.php] Warning(E_WARNING): Creating default object from empty value on [D:\Web\ServerHost\htdocs\eccube\data\class\pages\abouts\LC_Page_Abouts.php(70)] from ::1
+2015/09/07 09:10:33 [/eccube/html/contact/index.php] Warning(E_WARNING): Illegal string offset 'name01' on [D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%70^70A^70AD02C6%%index.tpl.php(28)] from ::1
+2015/09/07 09:10:33 [/eccube/html/contact/index.php] Warning(E_WARNING): Illegal string offset 'name02' on [D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%70^70A^70AD02C6%%index.tpl.php(32)] from ::1
+2015/09/07 09:10:33 [/eccube/html/contact/index.php] Warning(E_WARNING): Illegal string offset 'zipcode' on [D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%70^70A^70AD02C6%%index.tpl.php(46)] from ::1
+2015/09/07 09:10:33 [/eccube/html/contact/index.php] Warning(E_WARNING): Illegal string offset 'addr01' on [D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%70^70A^70AD02C6%%index.tpl.php(62)] from ::1
+2015/09/07 09:10:33 [/eccube/html/contact/index.php] Warning(E_WARNING): Illegal string offset 'addr02' on [D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%70^70A^70AD02C6%%index.tpl.php(70)] from ::1
+2015/09/07 09:10:33 [/eccube/html/contact/index.php] Warning(E_WARNING): Illegal string offset 'tel01' on [D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%70^70A^70AD02C6%%index.tpl.php(87)] from ::1
+2015/09/07 09:10:33 [/eccube/html/contact/index.php] Warning(E_WARNING): Illegal string offset 'tel02' on [D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%70^70A^70AD02C6%%index.tpl.php(91)] from ::1
+2015/09/07 09:10:33 [/eccube/html/contact/index.php] Warning(E_WARNING): Illegal string offset 'tel03' on [D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%70^70A^70AD02C6%%index.tpl.php(95)] from ::1
+2015/09/07 09:10:33 [/eccube/html/contact/index.php] Warning(E_WARNING): Illegal string offset 'email' on [D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%70^70A^70AD02C6%%index.tpl.php(107)] from ::1
+2015/09/07 10:51:49 [/eccube/html/admin/ownersstore/index.php] Warning(E_WARNING): file_exists() expects parameter 1 to be a valid path, string given on [D:\Web\ServerHost\htdocs\eccube\data\module\Archive\Tar.php(1609)] from ::1
+2015/09/08 05:22:30 [/eccube/html/admin/ownersstore/index.php] Warning(E_WARNING): file_exists() expects parameter 1 to be a valid path, string given on [D:\Web\ServerHost\htdocs\eccube\data\module\Archive\Tar.php(1609)] from ::1
+2015/09/08 05:51:01 [/eccube/html/admin/ownersstore/index.php] Warning(E_WARNING): file_exists() expects parameter 1 to be a valid path, string given on [D:\Web\ServerHost\htdocs\eccube\data\module\Archive\Tar.php(1609)] from ::1
+2015/09/08 05:57:28 [/eccube/html/admin/ownersstore/index.php] Warning(E_WARNING): file_exists() expects parameter 1 to be a valid path, string given on [D:\Web\ServerHost\htdocs\eccube\data\module\Archive\Tar.php(1609)] from ::1
+2015/09/08 06:09:21 [/eccube/html/admin/products/product.php] Warning(E_WARNING): array_diff(): Argument #1 is not an array on [D:\Web\ServerHost\htdocs\eccube\data\class\SC_CheckError.php(63)] from ::1
+2015/09/08 06:09:21 [/eccube/html/admin/products/product.php] Warning(E_WARNING): array_diff(): Argument #1 is not an array on [D:\Web\ServerHost\htdocs\eccube\data\class\SC_CheckError.php(63)] from ::1
+2015/09/08 06:09:21 [/eccube/html/admin/products/product.php] Warning(E_WARNING): array_diff(): Argument #1 is not an array on [D:\Web\ServerHost\htdocs\eccube\data\class\SC_CheckError.php(63)] from ::1
+2015/09/08 06:09:21 [/eccube/html/admin/products/product.php] Warning(E_WARNING): array_diff(): Argument #1 is not an array on [D:\Web\ServerHost\htdocs\eccube\data\class\SC_CheckError.php(63)] from ::1
+2015/09/08 06:09:21 [/eccube/html/admin/products/product.php] Warning(E_WARNING): array_diff(): Argument #1 is not an array on [D:\Web\ServerHost\htdocs\eccube\data\class\SC_CheckError.php(63)] from ::1
+2015/09/08 06:09:21 [/eccube/html/admin/products/product.php] Warning(E_WARNING): array_diff(): Argument #1 is not an array on [D:\Web\ServerHost\htdocs\eccube\data\class\SC_CheckError.php(63)] from ::1
+2015/09/08 06:09:30 [/eccube/html/admin/products/product.php] Warning(E_WARNING): array_diff(): Argument #1 is not an array on [D:\Web\ServerHost\htdocs\eccube\data\class\SC_CheckError.php(63)] from ::1
+2015/09/08 06:09:30 [/eccube/html/admin/products/product.php] Warning(E_WARNING): array_diff(): Argument #1 is not an array on [D:\Web\ServerHost\htdocs\eccube\data\class\SC_CheckError.php(63)] from ::1
+2015/09/08 06:09:30 [/eccube/html/admin/products/product.php] Warning(E_WARNING): array_diff(): Argument #1 is not an array on [D:\Web\ServerHost\htdocs\eccube\data\class\SC_CheckError.php(63)] from ::1
+2015/09/08 06:09:30 [/eccube/html/admin/products/product.php] Warning(E_WARNING): array_diff(): Argument #1 is not an array on [D:\Web\ServerHost\htdocs\eccube\data\class\SC_CheckError.php(63)] from ::1
+2015/09/08 06:09:30 [/eccube/html/admin/products/product.php] Warning(E_WARNING): array_diff(): Argument #1 is not an array on [D:\Web\ServerHost\htdocs\eccube\data\class\SC_CheckError.php(63)] from ::1
+2015/09/08 06:09:30 [/eccube/html/admin/products/product.php] Warning(E_WARNING): array_diff(): Argument #1 is not an array on [D:\Web\ServerHost\htdocs\eccube\data\class\SC_CheckError.php(63)] from ::1
+2015/09/08 06:13:28 [/eccube/html/admin/products/product.php] Warning(E_WARNING): array_diff(): Argument #1 is not an array on [D:\Web\ServerHost\htdocs\eccube\data\class\SC_CheckError.php(63)] from ::1
+2015/09/08 06:13:28 [/eccube/html/admin/products/product.php] Warning(E_WARNING): array_diff(): Argument #1 is not an array on [D:\Web\ServerHost\htdocs\eccube\data\class\SC_CheckError.php(63)] from ::1
+2015/09/08 06:13:28 [/eccube/html/admin/products/product.php] Warning(E_WARNING): array_diff(): Argument #1 is not an array on [D:\Web\ServerHost\htdocs\eccube\data\class\SC_CheckError.php(63)] from ::1
+2015/09/08 06:13:28 [/eccube/html/admin/products/product.php] Warning(E_WARNING): array_diff(): Argument #1 is not an array on [D:\Web\ServerHost\htdocs\eccube\data\class\SC_CheckError.php(63)] from ::1
+2015/09/08 06:13:28 [/eccube/html/admin/products/product.php] Warning(E_WARNING): array_diff(): Argument #1 is not an array on [D:\Web\ServerHost\htdocs\eccube\data\class\SC_CheckError.php(63)] from ::1
+2015/09/08 06:13:28 [/eccube/html/admin/products/product.php] Warning(E_WARNING): array_diff(): Argument #1 is not an array on [D:\Web\ServerHost\htdocs\eccube\data\class\SC_CheckError.php(63)] from ::1
+2015/09/08 06:13:33 [/eccube/html/admin/products/product.php] Warning(E_WARNING): array_diff(): Argument #1 is not an array on [D:\Web\ServerHost\htdocs\eccube\data\class\SC_CheckError.php(63)] from ::1
+2015/09/08 06:13:33 [/eccube/html/admin/products/product.php] Warning(E_WARNING): array_diff(): Argument #1 is not an array on [D:\Web\ServerHost\htdocs\eccube\data\class\SC_CheckError.php(63)] from ::1
+2015/09/08 06:13:33 [/eccube/html/admin/products/product.php] Warning(E_WARNING): array_diff(): Argument #1 is not an array on [D:\Web\ServerHost\htdocs\eccube\data\class\SC_CheckError.php(63)] from ::1
+2015/09/08 06:13:33 [/eccube/html/admin/products/product.php] Warning(E_WARNING): array_diff(): Argument #1 is not an array on [D:\Web\ServerHost\htdocs\eccube\data\class\SC_CheckError.php(63)] from ::1
+2015/09/08 06:13:33 [/eccube/html/admin/products/product.php] Warning(E_WARNING): array_diff(): Argument #1 is not an array on [D:\Web\ServerHost\htdocs\eccube\data\class\SC_CheckError.php(63)] from ::1
+2015/09/08 06:13:33 [/eccube/html/admin/products/product.php] Warning(E_WARNING): array_diff(): Argument #1 is not an array on [D:\Web\ServerHost\htdocs\eccube\data\class\SC_CheckError.php(63)] from ::1
+2015/09/08 06:14:49 [/eccube/html/admin/products/review.php] Warning(E_WARNING): Illegal string offset 'value' on [D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\admin\%%34^344^344B2CC6%%review.tpl.php(221)] from ::1
+2015/09/08 06:15:02 [/eccube/html/admin/products/review.php] Warning(E_WARNING): Illegal string offset 'value' on [D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\admin\%%34^344^344B2CC6%%review.tpl.php(221)] from ::1
+2015/09/08 06:16:02 [/eccube/html/admin/system/editdb.php] Warning(E_WARNING): array_search() expects parameter 2 to be array, object given on [D:\Web\ServerHost\htdocs\eccube\data\class\pages\admin\system\LC_Page_Admin_System_Editdb.php(201)] from ::1
+2015/09/08 06:16:02 [/eccube/html/admin/system/editdb.php] Warning(E_WARNING): array_search() expects parameter 2 to be array, object given on [D:\Web\ServerHost\htdocs\eccube\data\class\pages\admin\system\LC_Page_Admin_System_Editdb.php(201)] from ::1
+2015/09/08 06:16:02 [/eccube/html/admin/system/editdb.php] Warning(E_WARNING): array_search() expects parameter 2 to be array, object given on [D:\Web\ServerHost\htdocs\eccube\data\class\pages\admin\system\LC_Page_Admin_System_Editdb.php(201)] from ::1
+2015/09/08 06:17:15 [/eccube/html/admin/ownersstore/index.php] Warning(E_WARNING): file_exists() expects parameter 1 to be a valid path, string given on [D:\Web\ServerHost\htdocs\eccube\data\module\Archive\Tar.php(1609)] from ::1
+2015/09/08 06:17:29 [/eccube/html/admin/ownersstore/index.php] Warning(E_WARNING): file_exists() expects parameter 1 to be a valid path, string given on [D:\Web\ServerHost\htdocs\eccube\data\module\Archive\Tar.php(1609)] from ::1
+2015/09/08 07:03:41 [/eccube/html/abouts/index.php] Warning(E_WARNING): Creating default object from empty value on [D:\Web\ServerHost\htdocs\eccube\data\class\pages\abouts\LC_Page_Abouts.php(70)] from ::1
+2015/09/08 07:20:31 [/eccube/html/admin/ownersstore/index.php] Warning(E_WARNING): file_exists() expects parameter 1 to be a valid path, string given on [D:\Web\ServerHost\htdocs\eccube\data\module\Archive\Tar.php(1609)] from ::1
+2015/09/08 07:22:26 [/eccube/html/admin/ownersstore/index.php] Warning(E_WARNING): file_exists() expects parameter 1 to be a valid path, string given on [D:\Web\ServerHost\htdocs\eccube\data\module\Archive\Tar.php(1609)] from ::1
+2015/09/08 07:24:00 [/eccube/html/admin/ownersstore/index.php] Warning(E_WARNING): file_exists() expects parameter 1 to be a valid path, string given on [D:\Web\ServerHost\htdocs\eccube\data\module\Archive\Tar.php(1609)] from ::1
+2015/09/08 07:59:37 [/eccube/html/admin/ownersstore/index.php] Warning(E_WARNING): file_exists() expects parameter 1 to be a valid path, string given on [D:\Web\ServerHost\htdocs\eccube\data\module\Archive\Tar.php(1609)] from ::1
+2015/09/08 08:32:24 [/eccube/html/admin/ownersstore/index.php] Warning(E_WARNING): file_exists() expects parameter 1 to be a valid path, string given on [D:\Web\ServerHost\htdocs\eccube\data\module\Archive\Tar.php(1609)] from ::1
+2015/09/08 09:22:59 [/eccube/html/admin/ownersstore/index.php] Warning(E_WARNING): file_exists() expects parameter 1 to be a valid path, string given on [D:\Web\ServerHost\htdocs\eccube\data\module\Archive\Tar.php(1609)] from ::1
+2015/09/08 09:29:07 [/eccube/html/shopping/confirm.php] Warning(E_WARNING): Illegal string offset 'customer_id' on [D:\Web\ServerHost\htdocs\eccube\data\class\SC_Customer.php(211)] from ::1
+2015/09/08 09:31:05 [/eccube/html/admin/order/edit.php] Warning(E_WARNING): number_format() expects parameter 1 to be double, string given on [D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\admin\%%C8^C80^C80C6CBD%%edit.tpl.php(459)] from ::1
+2015/09/08 09:31:26 [/eccube/html/admin/order/edit.php] Warning(E_WARNING): number_format() expects parameter 1 to be double, string given on [D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\admin\%%C8^C80^C80C6CBD%%edit.tpl.php(459)] from ::1
+2015/09/08 09:31:26 [/eccube/html/admin/order/edit.php] Warning(E_WARNING): number_format() expects parameter 1 to be double, string given on [D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\admin\%%C8^C80^C80C6CBD%%edit.tpl.php(636)] from ::1
+2015/09/08 09:31:26 [/eccube/html/admin/order/edit.php] Warning(E_WARNING): number_format() expects parameter 1 to be double, string given on [D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\admin\%%C8^C80^C80C6CBD%%edit.tpl.php(700)] from ::1
+2015/09/08 09:31:26 [/eccube/html/admin/order/edit.php] Warning(E_WARNING): number_format() expects parameter 1 to be double, string given on [D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\admin\%%C8^C80^C80C6CBD%%edit.tpl.php(712)] from ::1
+2015/09/08 09:31:26 [/eccube/html/admin/order/edit.php] Warning(E_WARNING): number_format() expects parameter 1 to be double, string given on [D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\admin\%%C8^C80^C80C6CBD%%edit.tpl.php(756)] from ::1
+2015/09/08 09:31:41 [/eccube/html/admin/total/index.php] Warning(E_WARNING): Missing argument 4 for LC_Page_Admin_Total::lfGetWhereMember(), called in D:\Web\ServerHost\htdocs\eccube\data\class\pages\admin\total\LC_Page_Admin_Total.php on line 657 and defined on [D:\Web\ServerHost\htdocs\eccube\data\class\pages\admin\total\LC_Page_Admin_Total.php(459)] from ::1
+2015/09/08 09:31:42 [/eccube/html/admin/total/index.php] Warning(E_WARNING): Missing argument 4 for LC_Page_Admin_Total::lfGetWhereMember(), called in D:\Web\ServerHost\htdocs\eccube\data\class\pages\admin\total\LC_Page_Admin_Total.php on line 657 and defined on [D:\Web\ServerHost\htdocs\eccube\data\class\pages\admin\total\LC_Page_Admin_Total.php(459)] from ::1
+2015/09/08 09:41:09 [/eccube/html/admin/order/pdf.php] Warning(E_WARNING): join(): Invalid arguments passed on [D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\admin\%%DF^DFF^DFFCD47C%%pdf_input.tpl.php(138)] from ::1
+2015/09/08 09:57:47 [/eccube/html/admin/mail/history.php] Warning(E_WARNING): Missing argument 4 for SC_PageNavi::__construct(), called in D:\Web\ServerHost\htdocs\eccube\data\class\pages\admin\mail\LC_Page_Admin_Mail_History.php on line 132 and defined on [D:\Web\ServerHost\htdocs\eccube\data\class\SC_PageNavi.php(44)] from ::1
+2015/09/08 09:58:43 [/eccube/html/admin/ownersstore/index.php] Warning(E_WARNING): file_exists() expects parameter 1 to be a valid path, string given on [D:\Web\ServerHost\htdocs\eccube\data\module\Archive\Tar.php(1609)] from ::1
+2015/09/10 07:18:56 [/eccube/html/admin/ownersstore/index.php] Fatal error(E_PARSE): syntax error, unexpected '}' on [D:\Web\ServerHost\htdocs\eccube\data\downloads\plugin\SamplePlugin\plg_SamplePlugin.php(31)] from ::1
+login_id = doankhoi(0)[lgvfjh745mf7o1oe4igfdkfk54]
+2015/09/10 07:20:35 [/eccube/html/admin/ownersstore/index.php] Fatal error(E_PARSE): syntax error, unexpected '}' on [D:\Web\ServerHost\htdocs\eccube\data\downloads\plugin\SamplePlugin\plg_SamplePlugin.php(31)] from ::1
+login_id = doankhoi(0)[lgvfjh745mf7o1oe4igfdkfk54]
+2015/09/10 07:34:03 [/eccube/html/admin/ownersstore/index.php] Warning(E_WARNING): copy(D:\Web\ServerHost\htdocs\eccube\html/plugin/SamplePlugin/css/plg_sample_plugin.css): failed to open stream: No such file or directory on [D:\Web\ServerHost\htdocs\eccube\data\downloads\plugin\SamplePlugin\plg_SamplePlugin.php(30)] from ::1
+2015/09/10 09:02:24 [/eccube/html/abouts/index.php] Warning(E_WARNING): Creating default object from empty value on [D:\Web\ServerHost\htdocs\eccube\data\class\pages\abouts\LC_Page_Abouts.php(70)] from ::1
+2015/09/10 09:45:28 [/eccube/html/abouts/index.php] Warning(E_WARNING): Creating default object from empty value on [D:\Web\ServerHost\htdocs\eccube\data\class\pages\abouts\LC_Page_Abouts.php(70)] from ::1
+2015/09/11 08:42:00 [/eccube/html/admin/ownersstore/index.php] Fatal error(E_PARSE): syntax error, unexpected 'getSingletonInstance' (T_STRING), expecting variable (T_VARIABLE) or '$' on [D:\Web\ServerHost\htdocs\eccube\data\downloads\plugin\MyRefineKeyword\MyRefineKeyword.php(64)] from ::1
+login_id = doankhoi(0)[n2f74k7j3muk5rhjjs932d1ki5]
+2015/09/11 08:43:01 [/eccube/html/admin/ownersstore/index.php] Fatal error(E_PARSE): syntax error, unexpected 'getSingletonInstance' (T_STRING), expecting variable (T_VARIABLE) or '$' on [D:\Web\ServerHost\htdocs\eccube\data\downloads\plugin\MyRefineKeyword\MyRefineKeyword.php(64)] from ::1
+login_id = doankhoi(0)[n2f74k7j3muk5rhjjs932d1ki5]
+2015/09/11 08:59:34 [/eccube/html/admin/ownersstore/index.php] Fatal error(E_PARSE): syntax error, unexpected 'getSingletonInstance' (T_STRING), expecting variable (T_VARIABLE) or '$' on [D:\Web\ServerHost\htdocs\eccube\data\downloads\plugin\MyRefineKeyword\MyRefineKeyword.php(66)] from ::1
+login_id = doankhoi(0)[n2f74k7j3muk5rhjjs932d1ki5]
+2015/09/11 09:01:55 [/eccube/html/admin/ownersstore/index.php] Fatal error(E_PARSE): syntax error, unexpected 'getSingletonInstance' (T_STRING), expecting variable (T_VARIABLE) or '$' on [D:\Web\ServerHost\htdocs\eccube\data\downloads\plugin\MyRefineKeyword\MyRefineKeyword.php(66)] from ::1
+login_id = doankhoi(0)[n2f74k7j3muk5rhjjs932d1ki5]
+2015/09/11 09:07:06 [/eccube/html/admin/ownersstore/index.php] Fatal error(E_PARSE): syntax error, unexpected 'getSingletonInstance' (T_STRING), expecting variable (T_VARIABLE) or '$' on [D:\Web\ServerHost\htdocs\eccube\data\downloads\plugin\MyRefineKeyword\MyRefineKeyword.php(66)] from ::1
+login_id = doankhoi(0)[n2f74k7j3muk5rhjjs932d1ki5]
+2015/09/11 09:07:27 [/eccube/html/admin/ownersstore/index.php] Fatal error(E_PARSE): syntax error, unexpected 'getSingletonInstance' (T_STRING), expecting variable (T_VARIABLE) or '$' on [D:\Web\ServerHost\htdocs\eccube\data\downloads\plugin\MyRefineKeyword\MyRefineKeyword.php(66)] from ::1
+login_id = doankhoi(0)[n2f74k7j3muk5rhjjs932d1ki5]
+2015/09/11 09:20:46 [/eccube/html/products/list.php] Warning(E_WARNING): explode() expects parameter 2 to be string, array given on [D:\Web\ServerHost\htdocs\eccube\data\downloads\plugin\MyRefineKeyword\MyRefineKeyword.php(75)] from ::1
+2015/09/11 09:20:46 [/eccube/html/products/list.php] Warning(E_WARNING): array_merge(): Argument #2 is not an array on [D:\Web\ServerHost\htdocs\eccube\data\downloads\plugin\MyRefineKeyword\MyRefineKeyword.php(75)] from ::1
+2015/09/11 09:20:46 [/eccube/html/products/list.php] Warning(E_WARNING): explode() expects parameter 2 to be string, array given on [D:\Web\ServerHost\htdocs\eccube\data\downloads\plugin\MyRefineKeyword\MyRefineKeyword.php(75)] from ::1
+2015/09/11 09:20:46 [/eccube/html/products/list.php] Warning(E_WARNING): array_merge(): Argument #1 is not an array on [D:\Web\ServerHost\htdocs\eccube\data\downloads\plugin\MyRefineKeyword\MyRefineKeyword.php(75)] from ::1
+2015/09/11 09:20:46 [/eccube/html/products/list.php] Warning(E_WARNING): explode() expects parameter 2 to be string, array given on [D:\Web\ServerHost\htdocs\eccube\data\downloads\plugin\MyRefineKeyword\MyRefineKeyword.php(75)] from ::1
+2015/09/11 09:20:46 [/eccube/html/products/list.php] Warning(E_WARNING): array_merge(): Argument #1 is not an array on [D:\Web\ServerHost\htdocs\eccube\data\downloads\plugin\MyRefineKeyword\MyRefineKeyword.php(75)] from ::1
+2015/09/11 09:20:46 [/eccube/html/products/list.php] Warning(E_WARNING): array_unique() expects parameter 1 to be array, null given on [D:\Web\ServerHost\htdocs\eccube\data\downloads\plugin\MyRefineKeyword\MyRefineKeyword.php(78)] from ::1
+2015/09/11 09:20:54 [/eccube/html/products/list.php] Warning(E_WARNING): explode() expects parameter 2 to be string, array given on [D:\Web\ServerHost\htdocs\eccube\data\downloads\plugin\MyRefineKeyword\MyRefineKeyword.php(75)] from ::1
+2015/09/11 09:20:54 [/eccube/html/products/list.php] Warning(E_WARNING): array_merge(): Argument #2 is not an array on [D:\Web\ServerHost\htdocs\eccube\data\downloads\plugin\MyRefineKeyword\MyRefineKeyword.php(75)] from ::1
+2015/09/11 09:20:54 [/eccube/html/products/list.php] Warning(E_WARNING): explode() expects parameter 2 to be string, array given on [D:\Web\ServerHost\htdocs\eccube\data\downloads\plugin\MyRefineKeyword\MyRefineKeyword.php(75)] from ::1
+2015/09/11 09:20:54 [/eccube/html/products/list.php] Warning(E_WARNING): array_merge(): Argument #1 is not an array on [D:\Web\ServerHost\htdocs\eccube\data\downloads\plugin\MyRefineKeyword\MyRefineKeyword.php(75)] from ::1
+2015/09/11 09:20:54 [/eccube/html/products/list.php] Warning(E_WARNING): explode() expects parameter 2 to be string, array given on [D:\Web\ServerHost\htdocs\eccube\data\downloads\plugin\MyRefineKeyword\MyRefineKeyword.php(75)] from ::1
+2015/09/11 09:20:54 [/eccube/html/products/list.php] Warning(E_WARNING): array_merge(): Argument #1 is not an array on [D:\Web\ServerHost\htdocs\eccube\data\downloads\plugin\MyRefineKeyword\MyRefineKeyword.php(75)] from ::1
+2015/09/11 09:20:54 [/eccube/html/products/list.php] Warning(E_WARNING): array_unique() expects parameter 1 to be array, null given on [D:\Web\ServerHost\htdocs\eccube\data\downloads\plugin\MyRefineKeyword\MyRefineKeyword.php(78)] from ::1
+2015/09/11 09:26:41 [/eccube/html/products/list.php] Warning(E_WARNING): explode() expects parameter 2 to be string, array given on [D:\Web\ServerHost\htdocs\eccube\data\downloads\plugin\MyRefineKeyword\MyRefineKeyword.php(75)] from ::1
+2015/09/11 09:26:41 [/eccube/html/products/list.php] Warning(E_WARNING): array_merge(): Argument #2 is not an array on [D:\Web\ServerHost\htdocs\eccube\data\downloads\plugin\MyRefineKeyword\MyRefineKeyword.php(75)] from ::1
+2015/09/11 09:26:41 [/eccube/html/products/list.php] Warning(E_WARNING): explode() expects parameter 2 to be string, array given on [D:\Web\ServerHost\htdocs\eccube\data\downloads\plugin\MyRefineKeyword\MyRefineKeyword.php(75)] from ::1
+2015/09/11 09:26:41 [/eccube/html/products/list.php] Warning(E_WARNING): array_merge(): Argument #1 is not an array on [D:\Web\ServerHost\htdocs\eccube\data\downloads\plugin\MyRefineKeyword\MyRefineKeyword.php(75)] from ::1
+2015/09/11 09:26:41 [/eccube/html/products/list.php] Warning(E_WARNING): explode() expects parameter 2 to be string, array given on [D:\Web\ServerHost\htdocs\eccube\data\downloads\plugin\MyRefineKeyword\MyRefineKeyword.php(75)] from ::1
+2015/09/11 09:26:41 [/eccube/html/products/list.php] Warning(E_WARNING): array_merge(): Argument #1 is not an array on [D:\Web\ServerHost\htdocs\eccube\data\downloads\plugin\MyRefineKeyword\MyRefineKeyword.php(75)] from ::1
+2015/09/11 09:26:41 [/eccube/html/products/list.php] Warning(E_WARNING): array_unique() expects parameter 1 to be array, null given on [D:\Web\ServerHost\htdocs\eccube\data\downloads\plugin\MyRefineKeyword\MyRefineKeyword.php(78)] from ::1
+2015/09/11 09:39:41 [/eccube/html/products/list.php] Fatal error(E_USER_ERROR): Smarty error: [in D:\Web\ServerHost\htdocs\eccube\html/../data/Smarty/templates/default_en-US/products/list.tpl line 199]: syntax error: unclosed tag \{foreach} (opened line 67). (Smarty_Compiler.class.php, line 317) on [D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1093)] from ::1
+customer_id = 
+D:\Web\ServerHost\htdocs\eccube\html\products\list.php(34): LC_Page_Products_List_Ex->process
+D:\Web\ServerHost\htdocs\eccube\data\class_extends\page_extends\products\LC_Page_Products_List_Ex.php(56): LC_Page_Products_List->process
+D:\Web\ServerHost\htdocs\eccube\data\class\pages\products\LC_Page_Products_List.php(88): LC_Page->sendResponse
+D:\Web\ServerHost\htdocs\eccube\data\class\pages\LC_Page.php(144): SC_Display->prepare
+D:\Web\ServerHost\htdocs\eccube\data\class\SC_Display.php(77): SC_View->getResponse
+D:\Web\ServerHost\htdocs\eccube\data\class\SC_View.php(100): Smarty->fetch
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1263): include
+D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%F1^F15^F158E3F4%%site_frame.tpl.php(93): Smarty->_smarty_include
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1869): include
+D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%58^587^5876E692%%site_main.tpl.php(135): Smarty->_smarty_include
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1867): Smarty->_compile_resource
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1422): Smarty->_compile_source
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1489): Smarty_Compiler->_compile_file
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty_Compiler.class.php(317): Smarty_Compiler->_syntax_error
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty_Compiler.class.php(2256): Smarty->_trigger_fatal_error
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1815): Smarty->trigger_error
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1093): trigger_error
+2015/09/11 09:41:07 [/eccube/html/products/list.php] Fatal error(E_USER_ERROR): Smarty error: [in D:\Web\ServerHost\htdocs\eccube\html/../data/Smarty/templates/default_en-US/products/list.tpl line 199]: syntax error: unclosed tag \{foreach} (opened line 67). (Smarty_Compiler.class.php, line 317) on [D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1093)] from ::1
+customer_id = 
+D:\Web\ServerHost\htdocs\eccube\html\products\list.php(34): LC_Page_Products_List_Ex->process
+D:\Web\ServerHost\htdocs\eccube\data\class_extends\page_extends\products\LC_Page_Products_List_Ex.php(56): LC_Page_Products_List->process
+D:\Web\ServerHost\htdocs\eccube\data\class\pages\products\LC_Page_Products_List.php(88): LC_Page->sendResponse
+D:\Web\ServerHost\htdocs\eccube\data\class\pages\LC_Page.php(144): SC_Display->prepare
+D:\Web\ServerHost\htdocs\eccube\data\class\SC_Display.php(77): SC_View->getResponse
+D:\Web\ServerHost\htdocs\eccube\data\class\SC_View.php(100): Smarty->fetch
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1263): include
+D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%F1^F15^F158E3F4%%site_frame.tpl.php(93): Smarty->_smarty_include
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1869): include
+D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%58^587^5876E692%%site_main.tpl.php(135): Smarty->_smarty_include
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1867): Smarty->_compile_resource
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1422): Smarty->_compile_source
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1489): Smarty_Compiler->_compile_file
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty_Compiler.class.php(317): Smarty_Compiler->_syntax_error
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty_Compiler.class.php(2256): Smarty->_trigger_fatal_error
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1815): Smarty->trigger_error
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1093): trigger_error
+2015/09/11 09:41:19 [/eccube/html/products/list.php] Fatal error(E_USER_ERROR): Smarty error: [in D:\Web\ServerHost\htdocs\eccube\html/../data/Smarty/templates/default_en-US/products/list.tpl line 199]: syntax error: unclosed tag \{foreach} (opened line 67). (Smarty_Compiler.class.php, line 317) on [D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1093)] from ::1
+customer_id = 
+D:\Web\ServerHost\htdocs\eccube\html\products\list.php(34): LC_Page_Products_List_Ex->process
+D:\Web\ServerHost\htdocs\eccube\data\class_extends\page_extends\products\LC_Page_Products_List_Ex.php(56): LC_Page_Products_List->process
+D:\Web\ServerHost\htdocs\eccube\data\class\pages\products\LC_Page_Products_List.php(88): LC_Page->sendResponse
+D:\Web\ServerHost\htdocs\eccube\data\class\pages\LC_Page.php(144): SC_Display->prepare
+D:\Web\ServerHost\htdocs\eccube\data\class\SC_Display.php(77): SC_View->getResponse
+D:\Web\ServerHost\htdocs\eccube\data\class\SC_View.php(100): Smarty->fetch
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1263): include
+D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%F1^F15^F158E3F4%%site_frame.tpl.php(93): Smarty->_smarty_include
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1869): include
+D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%58^587^5876E692%%site_main.tpl.php(135): Smarty->_smarty_include
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1867): Smarty->_compile_resource
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1422): Smarty->_compile_source
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1489): Smarty_Compiler->_compile_file
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty_Compiler.class.php(317): Smarty_Compiler->_syntax_error
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty_Compiler.class.php(2256): Smarty->_trigger_fatal_error
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1815): Smarty->trigger_error
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1093): trigger_error
+2015/09/11 09:43:21 [/eccube/html/products/list.php] Fatal error(E_USER_ERROR): Smarty error: [in D:\Web\ServerHost\htdocs\eccube\html/../data/Smarty/templates/default_en-US/products/list.tpl line 69]: syntax error: foreach: missing 'from' attribute (Smarty_Compiler.class.php, line 1165) on [D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1093)] from ::1
+customer_id = 
+D:\Web\ServerHost\htdocs\eccube\html\products\list.php(34): LC_Page_Products_List_Ex->process
+D:\Web\ServerHost\htdocs\eccube\data\class_extends\page_extends\products\LC_Page_Products_List_Ex.php(56): LC_Page_Products_List->process
+D:\Web\ServerHost\htdocs\eccube\data\class\pages\products\LC_Page_Products_List.php(88): LC_Page->sendResponse
+D:\Web\ServerHost\htdocs\eccube\data\class\pages\LC_Page.php(144): SC_Display->prepare
+D:\Web\ServerHost\htdocs\eccube\data\class\SC_Display.php(77): SC_View->getResponse
+D:\Web\ServerHost\htdocs\eccube\data\class\SC_View.php(100): Smarty->fetch
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1263): include
+D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%F1^F15^F158E3F4%%site_frame.tpl.php(93): Smarty->_smarty_include
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1869): include
+D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%58^587^5876E692%%site_main.tpl.php(135): Smarty->_smarty_include
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1867): Smarty->_compile_resource
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1422): Smarty->_compile_source
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1489): Smarty_Compiler->_compile_file
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty_Compiler.class.php(312): Smarty_Compiler->_compile_tag
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty_Compiler.class.php(525): Smarty_Compiler->_compile_foreach_start
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty_Compiler.class.php(1165): Smarty_Compiler->_syntax_error
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty_Compiler.class.php(2256): Smarty->_trigger_fatal_error
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1815): Smarty->trigger_error
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1093): trigger_error
+2015/09/11 09:43:24 [/eccube/html/products/list.php] Fatal error(E_USER_ERROR): Smarty error: [in D:\Web\ServerHost\htdocs\eccube\html/../data/Smarty/templates/default_en-US/products/list.tpl line 69]: syntax error: foreach: missing 'from' attribute (Smarty_Compiler.class.php, line 1165) on [D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1093)] from ::1
+customer_id = 
+D:\Web\ServerHost\htdocs\eccube\html\products\list.php(34): LC_Page_Products_List_Ex->process
+D:\Web\ServerHost\htdocs\eccube\data\class_extends\page_extends\products\LC_Page_Products_List_Ex.php(56): LC_Page_Products_List->process
+D:\Web\ServerHost\htdocs\eccube\data\class\pages\products\LC_Page_Products_List.php(88): LC_Page->sendResponse
+D:\Web\ServerHost\htdocs\eccube\data\class\pages\LC_Page.php(144): SC_Display->prepare
+D:\Web\ServerHost\htdocs\eccube\data\class\SC_Display.php(77): SC_View->getResponse
+D:\Web\ServerHost\htdocs\eccube\data\class\SC_View.php(100): Smarty->fetch
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1263): include
+D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%F1^F15^F158E3F4%%site_frame.tpl.php(93): Smarty->_smarty_include
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1869): include
+D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%58^587^5876E692%%site_main.tpl.php(135): Smarty->_smarty_include
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1867): Smarty->_compile_resource
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1422): Smarty->_compile_source
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1489): Smarty_Compiler->_compile_file
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty_Compiler.class.php(312): Smarty_Compiler->_compile_tag
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty_Compiler.class.php(525): Smarty_Compiler->_compile_foreach_start
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty_Compiler.class.php(1165): Smarty_Compiler->_syntax_error
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty_Compiler.class.php(2256): Smarty->_trigger_fatal_error
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1815): Smarty->trigger_error
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1093): trigger_error
+2015/09/11 09:45:10 [/eccube/html/products/list.php] Fatal error(E_USER_ERROR): Smarty error: [in D:\Web\ServerHost\htdocs\eccube\html/../data/Smarty/templates/default_en-US/products/list.tpl line 69]: syntax error: foreach: missing 'from' attribute (Smarty_Compiler.class.php, line 1165) on [D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1093)] from ::1
+customer_id = 
+D:\Web\ServerHost\htdocs\eccube\html\products\list.php(34): LC_Page_Products_List_Ex->process
+D:\Web\ServerHost\htdocs\eccube\data\class_extends\page_extends\products\LC_Page_Products_List_Ex.php(56): LC_Page_Products_List->process
+D:\Web\ServerHost\htdocs\eccube\data\class\pages\products\LC_Page_Products_List.php(88): LC_Page->sendResponse
+D:\Web\ServerHost\htdocs\eccube\data\class\pages\LC_Page.php(144): SC_Display->prepare
+D:\Web\ServerHost\htdocs\eccube\data\class\SC_Display.php(77): SC_View->getResponse
+D:\Web\ServerHost\htdocs\eccube\data\class\SC_View.php(100): Smarty->fetch
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1263): include
+D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%F1^F15^F158E3F4%%site_frame.tpl.php(93): Smarty->_smarty_include
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1869): include
+D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%58^587^5876E692%%site_main.tpl.php(135): Smarty->_smarty_include
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1867): Smarty->_compile_resource
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1422): Smarty->_compile_source
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1489): Smarty_Compiler->_compile_file
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty_Compiler.class.php(312): Smarty_Compiler->_compile_tag
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty_Compiler.class.php(525): Smarty_Compiler->_compile_foreach_start
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty_Compiler.class.php(1165): Smarty_Compiler->_syntax_error
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty_Compiler.class.php(2256): Smarty->_trigger_fatal_error
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1815): Smarty->trigger_error
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1093): trigger_error
+2015/09/11 10:09:37 [/eccube/html/products/list.php] Fatal error(E_USER_ERROR): Smarty error: [in D:\Web\ServerHost\htdocs\eccube\html/../data/Smarty/templates/default_en-US/products/list.tpl line 69]: syntax error: foreach: missing 'from' attribute (Smarty_Compiler.class.php, line 1165) on [D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1093)] from ::1
+customer_id = 
+D:\Web\ServerHost\htdocs\eccube\html\products\list.php(34): LC_Page_Products_List_Ex->process
+D:\Web\ServerHost\htdocs\eccube\data\class_extends\page_extends\products\LC_Page_Products_List_Ex.php(56): LC_Page_Products_List->process
+D:\Web\ServerHost\htdocs\eccube\data\class\pages\products\LC_Page_Products_List.php(88): LC_Page->sendResponse
+D:\Web\ServerHost\htdocs\eccube\data\class\pages\LC_Page.php(144): SC_Display->prepare
+D:\Web\ServerHost\htdocs\eccube\data\class\SC_Display.php(77): SC_View->getResponse
+D:\Web\ServerHost\htdocs\eccube\data\class\SC_View.php(100): Smarty->fetch
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1263): include
+D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%F1^F15^F158E3F4%%site_frame.tpl.php(93): Smarty->_smarty_include
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1869): include
+D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%58^587^5876E692%%site_main.tpl.php(135): Smarty->_smarty_include
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1867): Smarty->_compile_resource
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1422): Smarty->_compile_source
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1489): Smarty_Compiler->_compile_file
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty_Compiler.class.php(312): Smarty_Compiler->_compile_tag
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty_Compiler.class.php(525): Smarty_Compiler->_compile_foreach_start
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty_Compiler.class.php(1165): Smarty_Compiler->_syntax_error
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty_Compiler.class.php(2256): Smarty->_trigger_fatal_error
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1815): Smarty->trigger_error
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1093): trigger_error
+2015/09/11 10:55:58 [/eccube/html/demo/index.php] Fatal error(E_PARSE): syntax error, unexpected '?>', expecting function (T_FUNCTION) on [D:\Web\ServerHost\htdocs\eccube\data\class_extends\page_extends\demo\LC_Page_Demo_Hello_Ex.php(31)] from ::1
+customer_id = 
+2015/09/11 10:57:11 [/eccube/html/demo/index.php] Fatal error(E_PARSE): syntax error, unexpected end of file, expecting function (T_FUNCTION) on [D:\Web\ServerHost\htdocs\eccube\data\class_extends\page_extends\demo\LC_Page_Demo_Hello_Ex.php(31)] from ::1
+customer_id = 
+2015/09/14 06:48:04 [/eccube/html/demo/index.php] Fatal error(E_COMPILE_ERROR): Cannot use isset() on the result of an expression (you can use "null !== expression" instead) on [D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%33^332^332DF2B9%%index.tpl.php(9)] from ::1
+customer_id = 
+2015/09/14 06:56:56 [/eccube/html/demo/index.php] Fatal error(E_USER_ERROR): Smarty error: [in D:\Web\ServerHost\htdocs\eccube\html/../data/Smarty/templates/default_en-US/demo/index.tpl line 2]: syntax error: unrecognized tag 'TPL_URLPATH' (Smarty_Compiler.class.php, line 590) on [D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1093)] from ::1
+customer_id = 
+D:\Web\ServerHost\htdocs\eccube\html\demo\index.php(8): LC_Page_Demo_Hello_Ex->process
+D:\Web\ServerHost\htdocs\eccube\data\class_extends\page_extends\demo\LC_Page_Demo_Hello_Ex.php(20): LC_Page_Demo_Hello->process
+D:\Web\ServerHost\htdocs\eccube\data\class\pages\demo\LC_Page_Demo_Hello.php(19): LC_Page->sendResponse
+D:\Web\ServerHost\htdocs\eccube\data\class\pages\LC_Page.php(144): SC_Display->prepare
+D:\Web\ServerHost\htdocs\eccube\data\class\SC_Display.php(77): SC_View->getResponse
+D:\Web\ServerHost\htdocs\eccube\data\class\SC_View.php(100): Smarty->fetch
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1263): include
+D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%F1^F15^F158E3F4%%site_frame.tpl.php(93): Smarty->_smarty_include
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1869): include
+D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%58^587^5876E692%%site_main.tpl.php(135): Smarty->_smarty_include
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1867): Smarty->_compile_resource
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1422): Smarty->_compile_source
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1489): Smarty_Compiler->_compile_file
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty_Compiler.class.php(312): Smarty_Compiler->_compile_tag
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty_Compiler.class.php(590): Smarty_Compiler->_syntax_error
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty_Compiler.class.php(2256): Smarty->_trigger_fatal_error
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1815): Smarty->trigger_error
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1093): trigger_error
+2015/09/14 07:09:09 [/eccube/html/demo/index.php] Fatal error(E_USER_ERROR): Smarty error: [in D:\Web\ServerHost\htdocs\eccube\html/../data/Smarty/templates/default_en-US/demo/index.tpl line 6]: [plugin] modifier 'isset' is not implemented (core.load_plugins.php, line 118) on [D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1093)] from ::1
+customer_id = 
+D:\Web\ServerHost\htdocs\eccube\html\demo\index.php(8): LC_Page_Demo_Hello_Ex->process
+D:\Web\ServerHost\htdocs\eccube\data\class_extends\page_extends\demo\LC_Page_Demo_Hello_Ex.php(20): LC_Page_Demo_Hello->process
+D:\Web\ServerHost\htdocs\eccube\data\class\pages\demo\LC_Page_Demo_Hello.php(19): LC_Page->sendResponse
+D:\Web\ServerHost\htdocs\eccube\data\class\pages\LC_Page.php(144): SC_Display->prepare
+D:\Web\ServerHost\htdocs\eccube\data\class\SC_Display.php(77): SC_View->getResponse
+D:\Web\ServerHost\htdocs\eccube\data\class\SC_View.php(100): Smarty->fetch
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1263): include
+D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%F1^F15^F158E3F4%%site_frame.tpl.php(93): Smarty->_smarty_include
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1869): include
+D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%58^587^5876E692%%site_main.tpl.php(135): Smarty->_smarty_include
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1869): include
+D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%33^332^332DF2B9%%index.tpl.php(4): smarty_core_load_plugins
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\internals\core.load_plugins.php(118): Smarty->_trigger_fatal_error
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1815): Smarty->trigger_error
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1093): trigger_error
+2015/09/14 08:42:11 [/eccube/html/demo/index.php] Fatal error(E_PARSE): syntax error, unexpected 'Student' (T_STRING), expecting variable (T_VARIABLE) on [D:\Web\ServerHost\htdocs\eccube\data\class\pages\demo\LC_Page_Demo_Hello.php(8)] from ::1
+customer_id = 
+2015/09/14 09:53:34 [/eccube/html/demo/index.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: "headerkhoi.tpl" on [D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1093)] from ::1
+customer_id = 
+D:\Web\ServerHost\htdocs\eccube\html\demo\index.php(8): LC_Page_Demo_Hello_Ex->process
+D:\Web\ServerHost\htdocs\eccube\data\class_extends\page_extends\demo\LC_Page_Demo_Hello_Ex.php(20): LC_Page_Demo_Hello->process
+D:\Web\ServerHost\htdocs\eccube\data\class\pages\demo\LC_Page_Demo_Hello.php(39): LC_Page->sendResponse
+D:\Web\ServerHost\htdocs\eccube\data\class\pages\LC_Page.php(144): SC_Display->prepare
+D:\Web\ServerHost\htdocs\eccube\data\class\SC_Display.php(77): SC_View->getResponse
+D:\Web\ServerHost\htdocs\eccube\data\class\SC_View.php(100): Smarty->fetch
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1263): include
+D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%F1^F15^F158E3F4%%site_frame.tpl.php(93): Smarty->_smarty_include
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1869): include
+D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%58^587^5876E692%%site_main.tpl.php(135): Smarty->_smarty_include
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1869): include
+D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%33^332^332DF2B9%%index.tpl.php(10): Smarty->_smarty_include
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1867): Smarty->_compile_resource
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1415): Smarty->_fetch_resource_info
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1589): Smarty->trigger_error
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1093): trigger_error
+2015/09/14 09:54:10 [/eccube/html/demo/index.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: "headerkhoi.tpl" on [D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1093)] from ::1
+customer_id = 
+D:\Web\ServerHost\htdocs\eccube\html\demo\index.php(8): LC_Page_Demo_Hello_Ex->process
+D:\Web\ServerHost\htdocs\eccube\data\class_extends\page_extends\demo\LC_Page_Demo_Hello_Ex.php(20): LC_Page_Demo_Hello->process
+D:\Web\ServerHost\htdocs\eccube\data\class\pages\demo\LC_Page_Demo_Hello.php(39): LC_Page->sendResponse
+D:\Web\ServerHost\htdocs\eccube\data\class\pages\LC_Page.php(144): SC_Display->prepare
+D:\Web\ServerHost\htdocs\eccube\data\class\SC_Display.php(77): SC_View->getResponse
+D:\Web\ServerHost\htdocs\eccube\data\class\SC_View.php(100): Smarty->fetch
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1263): include
+D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%F1^F15^F158E3F4%%site_frame.tpl.php(93): Smarty->_smarty_include
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1869): include
+D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%58^587^5876E692%%site_main.tpl.php(135): Smarty->_smarty_include
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1869): include
+D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%33^332^332DF2B9%%index.tpl.php(39): Smarty->_smarty_include
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1867): Smarty->_compile_resource
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1415): Smarty->_fetch_resource_info
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1589): Smarty->trigger_error
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1093): trigger_error
+2015/09/14 09:57:09 [/eccube/html/demo/index.php] Fatal error(E_ERROR): Allowed memory size of 134217728 bytes exhausted (tried to allocate 3457024 bytes) on [D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%7A^7A6^7A6DD9E9%%header.tpl.php(63)] from ::1
+customer_id = 
+2015/09/14 09:59:21 [/eccube/html/demo/index.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: "./headerkhoi.tpl" on [D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1093)] from ::1
+customer_id = 
+D:\Web\ServerHost\htdocs\eccube\html\demo\index.php(8): LC_Page_Demo_Hello_Ex->process
+D:\Web\ServerHost\htdocs\eccube\data\class_extends\page_extends\demo\LC_Page_Demo_Hello_Ex.php(20): LC_Page_Demo_Hello->process
+D:\Web\ServerHost\htdocs\eccube\data\class\pages\demo\LC_Page_Demo_Hello.php(39): LC_Page->sendResponse
+D:\Web\ServerHost\htdocs\eccube\data\class\pages\LC_Page.php(144): SC_Display->prepare
+D:\Web\ServerHost\htdocs\eccube\data\class\SC_Display.php(77): SC_View->getResponse
+D:\Web\ServerHost\htdocs\eccube\data\class\SC_View.php(100): Smarty->fetch
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1263): include
+D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%F1^F15^F158E3F4%%site_frame.tpl.php(93): Smarty->_smarty_include
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1869): include
+D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%58^587^5876E692%%site_main.tpl.php(135): Smarty->_smarty_include
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1869): include
+D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%33^332^332DF2B9%%index.tpl.php(39): Smarty->_smarty_include
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1867): Smarty->_compile_resource
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1415): Smarty->_fetch_resource_info
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1589): Smarty->trigger_error
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1093): trigger_error
+2015/09/14 09:59:44 [/eccube/html/demo/index.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: "./headerkhoi.tpl" on [D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1093)] from ::1
+customer_id = 
+D:\Web\ServerHost\htdocs\eccube\html\demo\index.php(8): LC_Page_Demo_Hello_Ex->process
+D:\Web\ServerHost\htdocs\eccube\data\class_extends\page_extends\demo\LC_Page_Demo_Hello_Ex.php(20): LC_Page_Demo_Hello->process
+D:\Web\ServerHost\htdocs\eccube\data\class\pages\demo\LC_Page_Demo_Hello.php(39): LC_Page->sendResponse
+D:\Web\ServerHost\htdocs\eccube\data\class\pages\LC_Page.php(144): SC_Display->prepare
+D:\Web\ServerHost\htdocs\eccube\data\class\SC_Display.php(77): SC_View->getResponse
+D:\Web\ServerHost\htdocs\eccube\data\class\SC_View.php(100): Smarty->fetch
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1263): include
+D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%F1^F15^F158E3F4%%site_frame.tpl.php(93): Smarty->_smarty_include
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1869): include
+D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%58^587^5876E692%%site_main.tpl.php(135): Smarty->_smarty_include
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1869): include
+D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%33^332^332DF2B9%%index.tpl.php(39): Smarty->_smarty_include
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1867): Smarty->_compile_resource
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1415): Smarty->_fetch_resource_info
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1589): Smarty->trigger_error
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1093): trigger_error
+2015/09/14 09:59:51 [/eccube/html/demo/index.php] Warning(E_USER_WARNING): Smarty error: unable to read resource: "./headerkhoi.tpl" on [D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1093)] from ::1
+customer_id = 
+D:\Web\ServerHost\htdocs\eccube\html\demo\index.php(8): LC_Page_Demo_Hello_Ex->process
+D:\Web\ServerHost\htdocs\eccube\data\class_extends\page_extends\demo\LC_Page_Demo_Hello_Ex.php(20): LC_Page_Demo_Hello->process
+D:\Web\ServerHost\htdocs\eccube\data\class\pages\demo\LC_Page_Demo_Hello.php(39): LC_Page->sendResponse
+D:\Web\ServerHost\htdocs\eccube\data\class\pages\LC_Page.php(144): SC_Display->prepare
+D:\Web\ServerHost\htdocs\eccube\data\class\SC_Display.php(77): SC_View->getResponse
+D:\Web\ServerHost\htdocs\eccube\data\class\SC_View.php(100): Smarty->fetch
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1263): include
+D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%F1^F15^F158E3F4%%site_frame.tpl.php(93): Smarty->_smarty_include
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1869): include
+D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%58^587^5876E692%%site_main.tpl.php(135): Smarty->_smarty_include
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1869): include
+D:\Web\ServerHost\htdocs\eccube\data\Smarty\templates_c\default_en-US\%%33^332^332DF2B9%%index.tpl.php(39): Smarty->_smarty_include
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1867): Smarty->_compile_resource
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1415): Smarty->_fetch_resource_info
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1589): Smarty->trigger_error
+D:\Web\ServerHost\htdocs\eccube\data\module\Smarty\libs\Smarty.class.php(1093): trigger_error
